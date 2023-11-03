@@ -1,0 +1,133 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #0077b6;
+    color: #fff;
+    padding: 1rem 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 20px;
+  }
+  
+  header .logo {
+    flex: 1;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  nav li {
+    margin-right: 20px;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    transition: color 0.3s;
+  }
+  
+  nav a:hover {
+    color: #ff6b6b;
+  }
+  
+  @media screen and (max-width: 768px) {
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    nav {
+      margin-top: 10px;
+    }
+  
+    nav ul {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    nav li {
+      margin-right: 0;
+      margin-bottom: 10px;
+    }
+  }
+  
+  section.hero {
+    background-image: url('university-hero.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 4rem 0;
+    text-align: center;
+  }
+
+  mark {
+    background-color: #0076b6ac; /* Set the background color to yellow */
+    color: #ffffff; /* Change the text color */
+    padding: 4px; /* Add padding to make the highlight more noticeable */
+  }
+  
+  .cta-button {
+    background-color: #ff6b6b;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+  }
+  
+  section.courses {
+    margin: 2rem 0;
+  }
+  
+  .course {
+    background-color: #3ea9d075;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+  }
+  
+  section.about {
+    background-color: #f9f9f9;
+    padding: 2rem 0;
+    border-style:dashed;
+    border-color:#0077b6; border-width:thin;
+  }
+  
+  section.admissions {
+    background-color: #dfdddd;
+    padding: 2rem 0;
+    border-style:dashed;
+    border-color:#0076b638; border-width:thin;
+  }
+  
+  section.contact {
+    background-color: #ffffff;
+    padding: 2rem 0;
+    border-style:dashed;
+    border-color:#0077b6; border-width:thin;
+
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem 0;
+  }
+  
