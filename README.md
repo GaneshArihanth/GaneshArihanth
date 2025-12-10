@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=280&section=header&text=Ganesh%20Arihanth%20B&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Specialist%20%7C%20Innovator&descAlignY=55&descAlign=50" alt="Ganesh Arihanth Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=280&section=header&text=Ganesh%20Arihanth%20B&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descAlign=50" alt="Ganesh Arihanth Header" />
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology** (CGPA 8.87). 
+Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology** (CGPA 8.87).
 
 I thrive at the intersection of **Full Stack Development** and **Artificial Intelligence**. My journey involves not just writing code, but architecting solutions that solve tangible problems—whether it's tracking civic issues for better governance or using satellite data to protect our oceans.
 
@@ -149,14 +149,13 @@ I believe in continuous learning. Here are some of my verified credentials:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Ganesh's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="Top Languages" />
-</div>
 
-<br />
+![Ganesh's Stats](https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&cache_buster=1)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesharihanth&theme=radical&hide_border=true&bg_color=0d1117" alt="Streak Stats" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&theme=radical&cache_buster=1)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ganesharihanth&theme=radical&cache_buster=1)
+
 </div>
 
 ---
@@ -167,7 +166,14 @@ I believe in continuous learning. Here are some of my verified credentials:
 
 I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
 
-[**LinkedIn**](https://www.linkedin.com/in/ganesh-arihanth/) • [**Email Me**](mailto:b.g.arihanth@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ganesh-arihanth/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:b.g.arihanth@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
 <br />
 
