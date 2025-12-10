@@ -29,7 +29,7 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology** (CGPA 8.87).
+Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology**.
 
 I thrive at the intersection of **Full Stack Development** and **Artificial Intelligence**. My journey involves not just writing code, but architecting solutions that solve tangible problems—whether it's tracking civic issues for better governance or using satellite data to protect our oceans.
 
