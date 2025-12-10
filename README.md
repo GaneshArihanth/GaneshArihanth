@@ -161,25 +161,3 @@ I believe in continuous learning. Here are some of my verified credentials:
 
 <div align="center">
 
-### 🤝 Let's Collaborate!
-
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
-
-[**LinkedIn**](https://www.linkedin.com/in/ganesh-arihanth/) • [**Email Me**](mailto:b.g.arihanth@gmail.com)
-
-<br />
-
-<i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
-
-</div>
-## 🤝 Get in Touch
-
-I would love to connect with you! If you have any questions or suggestions, or if you just want to chat about tech, feel free to reach out to me. You can find me on:
-
-- [LinkedIn](https://www.linkedin.com/in/ganesh-arihanth/)
-
-## 💼 Let's Collaborate
-
-If you're interested in working with me on a project, feel free to send me a message. I'm always open to working with other passionate developers and creating something amazing together.
-
-Thank you for visiting my repository, and I hope you find something interesting and inspiring here. Happy coding!
