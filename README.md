@@ -40,7 +40,7 @@ I thrive at the intersection of **Full Stack Development** and **Artificial Inte
 
 ### 💻 Programming Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -73,12 +73,14 @@ I thrive at the intersection of **Full Stack Development** and **Artificial Inte
 
 ## 💼 Professional Experience
 
-### **Machine Learning Intern** **📍 LIMAT Technology** | *May 2025 - June 2025* * Developed a sophisticated **Multi-use Case Review Analyzer** by fine-tuning Google's **BERT** model.
+### **Machine Learning Intern** **📍 LIMAT Technology** | *May 2025 - June 2025*
+* Developed a sophisticated **Multi-use Case Review Analyzer** by fine-tuning Google's **BERT** model.
 * Processed extensive Amazon user datasets to achieve high-accuracy sentiment classification.
 * Implemented **NLP techniques** (tokenization, embeddings) to derive actionable insights from unstructured text data.
 * **Tech Stack:** `Python` `BERT` `Pandas` `Transformers`
 
-### **FullStack Developer** **📍 CIT Hackathon Innovest** | *May 2024 - July 2024* * Co-developed the official full-stack web platform for the National Hackathon.
+### **FullStack Developer** **📍 CIT Hackathon Innovest** | *May 2024 - July 2024*
+* Co-developed the official full-stack web platform for the National Hackathon.
 * Designed and implemented responsive **frontend interfaces** ensuring seamless user experience for hundreds of participants.
 * Engineered robust **backend logic** to handle registrations, team management, and real-time updates.
 * **Tech Stack:** `React` `Node.js` `MongoDB` `Express`
@@ -161,3 +163,14 @@ I believe in continuous learning. Here are some of my verified credentials:
 
 <div align="center">
 
+### 🤝 Let's Collaborate!
+
+I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+
+[**LinkedIn**](https://www.linkedin.com/in/ganesh-arihanth/) • [**Email Me**](mailto:b.g.arihanth@gmail.com)
+
+<br />
+
+<i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+
+</div>
