@@ -150,13 +150,6 @@ I believe in continuous learning. Here are some of my verified credentials:
 
 ---
 
-## 📊 GitHub Analytics
-
-![Ganesh's Stats](https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&theme=radical)
-
----
-
 <div align="center">
 
 ### 🤝 Let's Collaborate!
