@@ -16,6 +16,10 @@
 
   <br />
 
+  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=00599C&style=flat" alt="Profile Views" />
+
+  <br />
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&width=435&lines=Building+Scalable+Web+Apps;Training+Advanced+AI+Models;Solving+Real-World+Problems;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
@@ -148,15 +152,8 @@ I believe in continuous learning. Here are some of my verified credentials:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-![Ganesh's Stats](https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&cache_buster=1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&theme=radical&cache_buster=1)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ganesharihanth&theme=radical&cache_buster=1)
-
-</div>
+![Ganesh's Stats](https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&theme=radical)
 
 ---
 
