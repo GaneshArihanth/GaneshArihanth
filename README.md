@@ -16,12 +16,12 @@
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=00599C&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=0d7dde&style=flat" alt="Profile Views" />
 
   <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00599C&width=435&lines=Building+Scalable+Web+Apps;Training+Advanced+AI+Models;Solving+Real-World+Problems;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0d7dde&width=435&lines=Building+Scalable+Web+Apps;Training+Advanced+AI+Models;Solving+Real-World+Problems;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
 
