@@ -28,7 +28,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesharihanth&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ganesharihanth&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -36,8 +36,8 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=compact&langs_count=8&theme=radical&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <p align="center">
@@ -161,15 +161,15 @@ I thrive at the intersection of **Full Stack Development** and **Artificial Inte
 
 I believe in continuous learning. Here are some of my verified credentials:
 
-1.  **AWS Academy:** AWS Academy Cloud Foundations
-2.  **Google Developer:** Android Developer Virtual Internship
-3.  **Cisco Certified:**
-    * Introduction to Cyber Security
-    * Cyber Security Essentials
-    * Network Essentials
-4.  **NPTEL Swayam:** Deep Learning Course
-5.  **Zscaler:** Network Virtual Internship
-6.  **UiPath Academy:** Automation Explorer Training
+1. **AWS Academy:** AWS Academy Cloud Foundations  
+2. **Google Developer:** Android Developer Virtual Internship  
+3. **Cisco Certified:**  
+   * Introduction to Cyber Security  
+   * Cyber Security Essentials  
+   * Network Essentials  
+4. **NPTEL Swayam:** Deep Learning Course  
+5. **Zscaler:** Network Virtual Internship  
+6. **UiPath Academy:** Automation Explorer Training  
 
 ---
 
