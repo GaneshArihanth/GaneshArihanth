@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ganesh%20Arihanth%20B&fontSize=80&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descAlign=50&fontColor=ffffff" alt="Ganesh Arihanth Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B721FF,50:FF2D78,100:21D4FD&height=280&section=header&text=Ganesh%20Arihanth%20B&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descAlign=50&fontColor=FFFFFF" alt="Ganesh Arihanth Header" />
 </div>
 
 <div align="center">
@@ -11,27 +11,20 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 
-  <br /><br />
+  <br />
 
-  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=B721FF&style=flat" alt="Profile Views" />
 
-  <br /><br />
+  <br />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&random=false&width=500&lines=Building+Scalable+Web+Apps+%F0%9F%8C%90;Training+Advanced+AI+Models+%F0%9F%A7%A0;Solving+Real-World+Problems+%F0%9F%94%A7;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B721FF&center=true&width=500&lines=Building+Scalable+Web+Apps;Training+Advanced+AI+Models;Solving+Real-World+Problems;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
-
-  <br /><br />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=ganesharihanth&theme=radical&no-frame=true&column=7&margin-w=6&no-bg=true" width="100%" alt="Trophies"/>
-
 </div>
 
----
+***
 
 ## 👨‍💻 About Me
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&icon_color=00d9ff&text_color=c9d1d9&ring_color=ff6ec7&count_private=true" width="400"/>
 
 Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology**.
 
@@ -42,70 +35,58 @@ I thrive at the intersection of **Full Stack Development** and **Artificial Inte
 * 🌱 **Focus:** Generative AI, Cloud Architecture, and Scalable Systems
 * ⚡ **Interests:** Open Source, Hackathons, and Guitar 🎸
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ganesharihanth&theme=radical&hide_border=true&background=0D1117&ring=ff6ec7&fire=ff6ec7&currStreakLabel=ff6ec7&dates=8baac4" width="400"/>
-
----
+***
 
 ## 🛠️ Technical Arsenal
 
 ### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+
+
+
 
 ### 🌐 Web Development
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
+
+
+
 
 ### 🤖 AI, Machine Learning & Data
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+
+
 
 ### ⚙️ Tools, DevOps & Cloud
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec7&text_color=c9d1d9&langs_count=8" width="340" alt="Top Languages"/>
-</div>
 
----
+
+
+
+
+***
 
 ## 💼 Professional Experience
 
-### **Machine Learning Intern** &nbsp; 📍 LIMAT Technology &nbsp;|&nbsp; *May 2025 - June 2025*
+### **Machine Learning Intern** **📍 LIMAT Technology** | *May 2025 - June 2025*
 * Developed a sophisticated **Multi-use Case Review Analyzer** by fine-tuning Google's **BERT** model.
 * Processed extensive Amazon user datasets to achieve high-accuracy sentiment classification.
 * Implemented **NLP techniques** (tokenization, embeddings) to derive actionable insights from unstructured text data.
 * **Tech Stack:** `Python` `BERT` `Pandas` `Transformers`
 
-### **FullStack Developer** &nbsp; 📍 CIT Hackathon Innovest &nbsp;|&nbsp; *May 2024 - July 2024*
+### **FullStack Developer** **📍 CIT Hackathon Innovest** | *May 2024 - July 2024*
 * Co-developed the official full-stack web platform for the National Hackathon.
 * Designed and implemented responsive **frontend interfaces** ensuring seamless user experience for hundreds of participants.
 * Engineered robust **backend logic** to handle registrations, team management, and real-time updates.
 * **Tech Stack:** `React` `Node.js` `MongoDB` `Express`
 
----
+***
 
 ## 🔭 Featured Projects
 
@@ -148,7 +129,7 @@ I thrive at the intersection of **Full Stack Development** and **Artificial Inte
 * **Performance:** Achieved **90%+ accuracy** using Transformer deep learning models.
 * **Tech:** `Transformers` `NLP` `Python` `BERT`
 
----
+***
 
 ## 🏆 Certifications & Achievements
 
@@ -164,23 +145,11 @@ I believe in continuous learning. Here are some of my verified credentials:
 5.  **Zscaler:** Network Virtual Internship
 6.  **UiPath Academy:** Automation Explorer Training
 
----
+***
 
 <div align="center">
 
-## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesharihanth&bg_color=0d1117&color=ff6ec7&line=00d9ff&point=ff6ec7&area=true&hide_border=true&area_color=1a0030" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<img src="https://github.com/ganesharihanth/ganesharihanth/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
-
-<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21D4FD,50:FF2D78,100:B721FF&height=120&section=footer" alt="Footer Wave" />
 
 ### 🤝 Let's Collaborate!
 
@@ -195,9 +164,5 @@ I am always open to discussing new projects, creative ideas, or opportunities to
 <br />
 
 <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
