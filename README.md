@@ -1,166 +1,240 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d7dde&height=280&section=header&text=Ganesh%20Arihanth%20B&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Specialist&descAlignY=55&descAlign=50" alt="Ganesh Arihanth Header" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:0d7dde,100:00d4ff&height=300&section=header&text=Ganesh%20Arihanth&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Engineer%20%E2%80%A2%20Builder&descAlignY=62&descSize=20&descColor=a0c8ff" />
+
 </div>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/ganesh-arihanth/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/ganesharihanth">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=600&lines=%F0%9F%9A%80+Building+things+that+matter;%F0%9F%A7%A0+Teaching+machines+to+think;%E2%9B%93+Decentralizing+civic+trust;%F0%9F%8C%8A+Protecting+oceans+with+AI;%F0%9F%8E%B8+Sometimes+I+play+guitar+too)](https://git.io/typing-svg)
 
-  <br />
-
-  <img src="https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile%20Views&color=0d7dde&style=flat" alt="Profile Views" />
-
-  <br />
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0d7dde&width=435&lines=Building+Scalable+Web+Apps;Training+Advanced+AI+Models;Solving+Real-World+Problems;Welcome+to+my+digital+space!+%F0%9F%9A%80" alt="Typing SVG" />
-  </a>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<table>
+<tr>
+<td valign="top" width="55%">
 
-Hi there! I'm **Ganesh Arihanth**, a passionate software developer and **Computer Science (AIML)** student at **Chennai Institute of Technology**.
+## `whoami`
 
-I thrive at the intersection of **Full Stack Development** and **Artificial Intelligence**. My journey involves not just writing code, but architecting solutions that solve tangible problems—whether it's tracking civic issues for better governance or using satellite data to protect our oceans.
+```yaml
+name       : Ganesh Arihanth B
+college    : Chennai Institute of Technology
+degree     : B.E. CSE (Artificial Intelligence & ML)
+reg_no     : 23AM018
+location   : Chennai, India 🌏
 
-* 🌍 **Location:** Chennai, India
-* 🎓 **Education:** B.E. Computer Science & Engineering (AIML)
-* 🌱 **Focus:** Generative AI, Cloud Architecture, and Scalable Systems
-* ⚡ **Interests:** Open Source, Hackathons, and Guitar 🎸
+passion    :
+  - Architecting scalable systems
+  - Generative AI & LLMs
+  - Blockchain & Web3
+  - Open source contribution
+  - Hackathons
 
----
+currently  :
+  - 🔨 Building Civic Mitra (blockchain + AI)
+  - 📖 Exploring RAG architectures
+  - 🎸 Practicing fingerpicking
+```
 
-## 🛠️ Technical Arsenal
+</td>
+<td valign="top" width="45%">
 
-### 💻 Programming Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![SQL](https://img.shields.io/badge/sql-%23000000.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=ganesharihanth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=0d7dde&text_color=a0c8ff&ring_color=0d7dde" width="100%"/>
 
-### 🌐 Web Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ganesharihanth&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=0d7dde&currStreakLabel=00d4ff&stroke=0d7dde" width="100%"/>
 
-### 🤖 AI, Machine Learning & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=LangChain&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ⚙️ Tools, DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 💼 Professional Experience
+## ⚡ Tech Stack
 
-### **Machine Learning Intern** **📍 LIMAT Technology** | *May 2025 - June 2025*
-* Developed a sophisticated **Multi-use Case Review Analyzer** by fine-tuning Google's **BERT** model.
-* Processed extensive Amazon user datasets to achieve high-accuracy sentiment classification.
-* Implemented **NLP techniques** (tokenization, embeddings) to derive actionable insights from unstructured text data.
-* **Tech Stack:** `Python` `BERT` `Pandas` `Transformers`
+<div align="center">
 
-### **FullStack Developer** **📍 CIT Hackathon Innovest** | *May 2024 - July 2024*
-* Co-developed the official full-stack web platform for the National Hackathon.
-* Designed and implemented responsive **frontend interfaces** ensuring seamless user experience for hundreds of participants.
-* Engineered robust **backend logic** to handle registrations, team management, and real-time updates.
-* **Tech Stack:** `React` `Node.js` `MongoDB` `Express`
+### 🧠 AI / ML
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d4ff&labelColor=0d1117)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00&labelColor=0d1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C&labelColor=0d1117)
+![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=00d4ff&labelColor=0d1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0d1117)
+![BERT](https://img.shields.io/badge/BERT-0d1117?style=for-the-badge&logo=google&logoColor=4285F4&labelColor=0d1117)
 
----
+### 🌐 Full Stack
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1117)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=6DA55F&labelColor=0d1117)
+![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=0d1117)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1117)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0d1117)
 
-## 🔭 Featured Projects
+### ⛓️ Blockchain & Cloud
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=00d4ff&labelColor=0d1117)
+![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=for-the-badge&logo=ethereum&logoColor=FFF100&labelColor=0d1117)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0d1117)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0d1117)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1117)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=0d1117)
 
-### 📢 **Civic Mitra: Issue Reporting Tool**
-> *Empowering citizens to hold governance accountable.*
-
-* **Problem:** Lack of transparency in reporting local civic issues.
-* **Solution:** A cross-platform application allowing users to report issues with **GPS-tagged multimedia evidence**.
-* **Key Features:**
-    * Real-time location dispatch for resource management.
-    * Transparent lifecycle tracking of reported issues.
-    * Categorization and rating system for government response.
-* **Stack:** `React Native` `Firebase` `Geolocation API`
-
-### 🚢 **Vessel Oil Spill Real-time Prediction**
-> *Protecting marine ecosystems through satellite data.*
-
-* **Problem:** Delayed detection of oil spills leads to irreversible environmental damage.
-* **Solution:** An automated system predicting spills using live satellite thermal data and vessel positioning.
-* **Key Features:**
-    * Integration with **Google Earth Engine** and **WeatherAPI**.
-    * Anomaly detection system analysing temperature differences.
-    * Dynamic frontend visualization of vessel routes and spill risks.
-* **Stack:** `Flask` `React` `MongoDB` `Google Earth Engine`
-
-### 📚 **BreakiT: GATE Preparation App**
-> *Smart learning for aspiring engineers.*
-
-* **Solution:** A comprehensive study platform designed for students preparing for the GATE examination.
-* **Key Features:**
-    * Subject-wise segregation of study materials.
-    * Real-time quizzes with instant scoring.
-    * **AI-driven analytics** providing personalized feedback based on performance.
-* **Stack:** `React` `Firebase` `AI Analytics`
-
-### 🧠 **Sentiment Analysis of User Reviews**
-> *Understanding user voice through Deep Learning.*
-
-* **Solution:** A reusable ML model for analyzing sentiment across multiple platforms.
-* **Performance:** Achieved **90%+ accuracy** using Transformer deep learning models.
-* **Tech:** `Transformers` `NLP` `Python` `BERT`
+</div>
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🔭 Projects
 
-I believe in continuous learning. Here are some of my verified credentials:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-1.  **AWS Academy:** AWS Academy Cloud Foundations
-2.  **Google Developer:** Android Developer Virtual Internship
-3.  **Cisco Certified:**
-    * Introduction to Cyber Security
-    * Cyber Security Essentials
-    * Network Essentials
-4.  **NPTEL Swayam:** Deep Learning Course
-5.  **Zscaler:** Network Virtual Internship
-6.  **UiPath Academy:** Automation Explorer Training
+### 📢 Civic Mitra
+> Blockchain-powered civic issue reporting platform
+
+```
+🛠 React 18 + Vite + Capacitor
+⛓ Solidity + Hardhat + Ethers.js
+🗺 Leaflet + Firebase + AI categorisation
+📍 Real-time GPS evidence tagging
+🔒 Immutable complaint records on-chain
+```
+
+[![Stars](https://img.shields.io/badge/Status-Active-00d4ff?style=flat-square&labelColor=0d1117)](https://github.com/ganesharihanth)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚢 Oil Spill Predictor
+> Protecting marine ecosystems with satellite AI
+
+```
+🛠 Flask + React + MongoDB
+🛰 Google Earth Engine integration
+🌡 Thermal anomaly detection system
+📊 Live vessel route visualisation
+⚠️ Real-time spill risk alerts
+```
+
+[![Stars](https://img.shields.io/badge/Status-Complete-0d7dde?style=flat-square&labelColor=0d1117)](https://github.com/ganesharihanth)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 BreakiT — GATE Prep App
+> AI-driven smart learning for engineers
+
+```
+🛠 React + Firebase
+🤖 AI-powered performance analytics
+📝 Real-time quizzes & scoring
+📂 Subject-wise study segregation
+📈 Personalised feedback engine
+```
+
+[![Stars](https://img.shields.io/badge/Status-Complete-0d7dde?style=flat-square&labelColor=0d1117)](https://github.com/ganesharihanth)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Sentiment Analyser
+> Deep learning NLP at 90%+ accuracy
+
+```
+🛠 Python + Transformers + BERT
+📊 Amazon multi-domain review dataset
+🔤 Tokenisation + embedding pipeline
+🏷 Multi-class sentiment classification
+📦 Reusable, production-ready model
+```
+
+[![Stars](https://img.shields.io/badge/Accuracy-90%25+-00d4ff?style=flat-square&labelColor=0d1117)](https://github.com/ganesharihanth)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**🤖 ML Intern** — *LIMAT Technology*
+`May 2025 – June 2025`
+
+Fine-tuned Google BERT on Amazon datasets for multi-domain sentiment classification. Implemented tokenisation + embedding pipelines achieving production-grade accuracy.
+
+`Python` `BERT` `Transformers` `Pandas` `NLP`
+
+</td>
+</tr>
+<tr>
+<td>
+
+**🌐 Full Stack Developer** — *CIT Hackathon Innovest*
+`May 2024 – July 2024`
+
+Built the official platform for a national hackathon — responsive frontend, robust backend handling team registrations and real-time updates for hundreds of participants.
+
+`React` `Node.js` `MongoDB` `Express`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+| Issuer | Certification |
+|--------|--------------|
+| ☁️ **AWS Academy** | Cloud Foundations |
+| 🤖 **Google Developer** | Android Developer Virtual Internship |
+| 🛡️ **Cisco** | Cyber Security Essentials · Intro to Cyber Security · Network Essentials |
+| 📘 **NPTEL Swayam** | Deep Learning |
+| 🔐 **Zscaler** | Network Virtual Internship |
+| 🤖 **UiPath Academy** | Automation Explorer Training |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesharihanth&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=a0c8ff&langs_count=8" height="200"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ganesharihanth&theme=tokyonight&no-frame=true&column=4&row=1&margin-w=8&no-bg=true" width="500"/>
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🤝 Let's Collaborate!
+### 🌐 Let's Connect
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ganesh%20Arihanth-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ganesh-arihanth/)
+[![GitHub](https://img.shields.io/badge/GitHub-ganesharihanth-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/ganesharihanth)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ganesh-arihanth/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<br/>
 
-<br />
+![Profile Views](https://komarev.com/ghpvc/?username=ganesharihanth&label=Profile+Views&color=00d4ff&style=flat-square)
 
-<i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
+<br/>
+
+```
+"First, solve the problem. Then, write the code." – John Johnson
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:0d7dde&height=120&section=footer&reversal=false" />
 
 </div>
